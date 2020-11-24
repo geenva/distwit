@@ -1,6 +1,8 @@
 ### This package assumes that you already have a Discord bot ready.
 
 THIS IS A FORK OF [Jyrone Parker](https://github.com/mastashake08)'s [original package](https://github.com/mastashake08/discord-twitter-bot).
+<br>
+[NPM](https://www.npmjs.com/package/distwit)
 
 ## Original description:
 
