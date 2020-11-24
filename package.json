@@ -1,5 +1,5 @@
 {
-  "name": "@geenva/distwit",
+  "name": "distwit",
   "version": "1.0.0",
   "description": "A discord bot that sends messages to a channel whenever a specific user tweets.",
   "main": "main.js",
